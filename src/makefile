@@ -1,6 +1,6 @@
 # Compiler Information
 CPP := g++
-CPPFLAGS := #-std=c++17 -Wall -Wextra -Wpedantic -Werror
+CPPFLAGS := -std=c++17 -Wall -Wextra -Wpedantic -Werror
 
 
 # Program Info
